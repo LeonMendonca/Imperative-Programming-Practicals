@@ -7,11 +7,11 @@
 These programs are meant to be used as a guide to understand the basic concepts of programming.
 
 # Contents
--   [Basic-Programs](github.com/schmeekygeek/Imperative-Programming-Practicals/Basic-Programs/)
+-   [Basic-Programs](github.com/schmeekygeek/Imperative-Programming-Practicals/tree/main/Basic-Programs/)
     -   HelloWorld
     -   OperationsOnNumbers
     -   VariablesExample
--   [Programs-On-Variables](github.com/schmeekygeek/Imperative-Programming-Practicals/Programs-On-Variables/)
+-   [Programs-On-Variables](github.com/schmeekygeek/Imperative-Programming-Practicals/tree/main/Programs-On-Variables/)
     -   AreaOfFigures
     -   SwapTwoNumbers
     -   VolumeOfFigures
