@@ -3,10 +3,10 @@
     <h3 align="center">Practical Solutions Written in Java</p>
 </p>
 
-# About
+## About
 These programs are meant to be used as a guide to understand the basic concepts of programming.
 
-# Contents
+## Contents
 -   [Basic-Programs](https://github.com/schmeekygeek/Imperative-Programming-Practicals/tree/main/Basic-Programs)
     -   HelloWorld
     -   OperationsOnNumbers
@@ -17,7 +17,7 @@ These programs are meant to be used as a guide to understand the basic concepts 
     -   VolumeOfFigures
 *More programs are on the way!*
 
-# Installation
+## Installation
 
 ***Make sure to [install git](https://git-scm.com/downloads) before cloning this repository.***
 
